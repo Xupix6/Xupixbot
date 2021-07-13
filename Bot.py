@@ -473,4 +473,4 @@ async def on_command_error(ctx, error):
 
 
 
-client.run('NzA1ODA4MTY2NjM3Nzk3NDA2.XqxFFA.4l9d1TjF8yvDhNOF1EzMOhlc9Ek')
+client.run('NOPE, dont stole my token, you little brat')
